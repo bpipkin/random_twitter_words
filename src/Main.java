@@ -4,6 +4,7 @@ public class Main {
 
 		GetRandomWord test = new GetRandomWord();
 		System.out.println(test.getNextWord());
+		System.out.println(test.getNextWord());
 	}
 
 }
