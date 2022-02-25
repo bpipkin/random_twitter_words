@@ -1,3 +1,5 @@
+package com.bonpopkon.app;
+
 import java.util.*;
 
 public class RandomWordResponse {
